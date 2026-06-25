@@ -17,7 +17,7 @@
 
 
 
-[![](https://komarev.com/ghpvc/?username=MitulSai&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=MitulSai&color=0e75b6&style=for-the-badge)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
